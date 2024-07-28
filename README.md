@@ -1,11 +1,11 @@
 # Expense Tracker - A MERN Stack Application
 
-**-Login-**
+# Login
 
 ![Screenshot 2024-07-28 190520](https://github.com/user-attachments/assets/eea581a5-5511-4f85-bc7e-155a0e1ba5e5)
 
 
-# Here's Expense Tracker Graphiacl representation:
+# Here's Expense Tracker Graph representation:
 
 ![Screenshot 2024-07-28 190642](https://github.com/user-attachments/assets/31b7303c-fd13-4414-9f2b-7965e10fdcd2)
 
